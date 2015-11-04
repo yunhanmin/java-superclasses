@@ -9,7 +9,7 @@ public class Bicycle {
   private double speed;
   
   // Constructor
-  public Bicyle() {
+  public Bicycle() {
     gear = 1;
     numGears = 18;
     speed = 0;

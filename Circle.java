@@ -14,8 +14,8 @@ public class Circle {
   private double radius;
   
   // Constructor
-  public circle(); {
-   radius = 3.0;
+  public Circle() {
+   radius = 1.0;
    
   }
   
